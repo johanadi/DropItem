@@ -1,0 +1,8 @@
+main: me.beatsolos.DropItem.Main
+name: DropItem
+version: 1.0
+author: Beatsolos
+commands:
+  test_command:
+    description: tests the use of this command
+    usage: /<command>
